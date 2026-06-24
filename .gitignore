@@ -12,3 +12,6 @@ __pycache__/
 
 # Sistema
 .DS_Store
+
+# Material de curso (apostilas pesadas, não versionar)
+aulas_hashtag/**/*.pdf
