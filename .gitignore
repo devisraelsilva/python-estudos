@@ -1,0 +1,14 @@
+# Ambientes virtuais Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Configuração de pasta do KDE/Linux
+.directory
+
+# Sistema
+.DS_Store
