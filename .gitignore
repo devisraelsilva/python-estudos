@@ -15,3 +15,8 @@ __pycache__/
 
 # Material de curso (apostilas pesadas, não versionar)
 aulas_hashtag/**/*.pdf
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.env
