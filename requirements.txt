@@ -1,4 +1,4 @@
 # Dependências compartilhadas das aulas (geradas pela migração)
-openpyxl==3.1.5
 pandas==3.0.2
 PyAutoGUI==0.9.54
+openpyxl==3.1.5
