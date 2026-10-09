@@ -14,7 +14,7 @@ __pycache__/
 .DS_Store
 
 # Material de curso (apostilas pesadas, não versionar)
-aulas_hashtag/**/*.pdf
+aulas_exercicios/**/*.pdf
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
