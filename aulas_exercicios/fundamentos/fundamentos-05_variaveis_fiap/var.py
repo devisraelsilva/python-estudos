@@ -1,0 +1,15 @@
+print("\n=========== Dados do Funcionário ===========\n")
+nome=input("Digite um funcionário: ")
+empresa=input("Digite o nome da empresa: ")
+qtde_funcionarios=int(input("Digite a quantidade de funcionários: "))
+salario=float(input("Digite o salário: "))
+
+print("\n=========== Dados informados ===========\n")
+print(f"O funcionário {nome} trabalha na empresa {empresa} e recebe o salário de R$ {salario:.2f}.")
+print(f"A {empresa} possui {qtde_funcionarios} funcionários")
+
+print("\n=========== Verifique os tipos de dados ===========\n")
+print(f"Tipo da variável [nome]: {type(nome)}")
+print(f"Tipo da variável [empresa]: {type(empresa)}")
+print(f"Tipo da variável [qtde_funcionarios]: {type(qtde_funcionarios)}")
+print(f"Tipo da variável [salario]: {type(salario)}")
