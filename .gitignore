@@ -20,3 +20,4 @@ aulas_exercicios/**/*.pdf
 .ruff_cache/
 .idea/
 .env
+.vscode
